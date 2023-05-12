@@ -2,7 +2,7 @@
 
 [CHAOS Organizer](https://goldboy1001.github.io/ahj-diploma/)
 
-
+[![Build status](https://ci.appveyor.com/api/projects/status/3phnvj6wu3nboj7d?svg=true)](https://ci.appveyor.com/project/GoldBoy1001/ahj-diploma)
 
 ## Обязательные для реализации функции
 

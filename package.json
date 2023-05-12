@@ -4,6 +4,7 @@
 	"description": "organizer",
 	"main": "index.js",
 	"scripts": {
+		"deploy": "gh-pages -d dist",
 		"dev": "webpack serve --config webpack.dev.js",
 		"build": "webpack --config webpack.prod.js",
 		"lint": "eslint ."
@@ -34,5 +35,7 @@
 		"webpack-dev-server": "^3.11.1",
 		"webpack-merge": "^5.7.3"
 	},
-	"dependencies": {}
+	"dependencies": {
+		"gh-pages": "^5.0.0"
+	}
 }
